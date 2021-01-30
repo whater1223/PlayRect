@@ -39,10 +39,10 @@ var a = 0
         }
         print(bbc)
         score.text = "\(bbc)"
-        if sender.tag == 0{
-            print(a+1)
-            a+=1
-        }
+//        if sender.tag == 0{
+//            print(a+1)
+//            a+=1
+//        }
     }
     
 }
